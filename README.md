@@ -1,3 +1,2 @@
 # Project_Euler
-Solutions to problems using different languages (hopefully)
-Languages used: C++, Java, Python, Ruby, Javacript
+Solutions to CS questions with multiple languages: C++ at this time.
